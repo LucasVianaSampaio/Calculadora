@@ -21,7 +21,7 @@ Projeto de uma calculadora online capaz de auxiliar em operações matemáticas<
 
 
 <h1 align="center">
-    <a href="#">Veja o site</a>
+    <a href="https://lucasvianasampaio.github.io/Calculadora/">Veja o site</a>
 </h1>
 
 ## 📕Sobre
@@ -34,4 +34,4 @@ Projeto desenvolvido com as seguintes tecnologias:
 - Git e Github
 
 ## 📝Licença
-Esse projeto está sob a licença MIT. Veja o arquivo <a href="#">LICENSE</a> para mais detalhes
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/LucasVianaSampaio/Calculadora/blob/main/LICENSE">LICENSE</a> para mais detalhes
